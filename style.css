@@ -1,0 +1,44 @@
+h1{
+    color:red
+}
+h2{
+    color:red;
+    font-style:italic;
+}
+.orderlists{
+    color:brown;
+    line-height:50px;
+    font-weight: bold;
+    font-size:medium;
+}
+.linethrough{
+    text-decoration: line-through;
+
+}
+.bgcolor{
+    background-color: yellow;
+    
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.unorderlists{
+    color:brown;
+    font-weight: bold;
+    font-size:medium;
+    letter-spacing:3px;
+    line-height:20px;
+}
+.bgcolor2{
+    background-color: yellow;
+}
+.paragraph{
+    color:brown;
+    font-size:medium;
+}
+.anchor{
+    color:red;
+    background-color: yellow;
+    font-style:italic;
+}
